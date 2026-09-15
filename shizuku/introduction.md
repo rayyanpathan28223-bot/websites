@@ -1,4 +1,4 @@
-# Introduction
+https://github.com/urbandroid-team/dont-kill-my-app.git# Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
 
